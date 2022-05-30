@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-https://t.me/IgorBowman
+I'm on [Telegram](https://t.me/IgorBowman).
 
 
 <!--
