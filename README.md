@@ -1,9 +1,16 @@
-### Hi there 👋
+ ### Hi there 👋
 
 
 I'm on [Telegram](https://t.me/IgorBowman).💬
 
 
+### Stack:
+
+
+* Python :snake:
+* Django, DRF
+* PostgreSQL
+* Docker 	:whale:
 
 <!--
 I'm graduated from university in 2018 year after World footbal championship 2018 in august month.
