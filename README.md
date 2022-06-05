@@ -8,7 +8,7 @@ I'm on [Telegram](https://t.me/IgorBowman).💬
 
 
 * Python :snake:
-* Django, DRF
+* Django
 * PostgreSQL
 * Docker 	:whale:
 
