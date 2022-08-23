@@ -1,16 +1,25 @@
- ### Hi there 👋
+                                                                Hi there 👋                                                                
+                                                               
+I`m python developer :man_beard:
 
 
-I'm on [Telegram](https://t.me/IgorBowman).💬
+🌱 I’m currently learning FastAPI, Django, Docker.
+
+My [Telegram](https://t.me/IgorBowman).💬
 
 
-### Stack:
+### My Stack:
 
 
 * Python :snake:
-* Django
-* PostgreSQL
+* Django :horse_racing:
+* PostgreSQL :elephant:
 * Docker 	:whale:
+
+
+
+
+
 
 <!--
 I'm graduated from university in 2018 year after World footbal championship 2018 in august month.
