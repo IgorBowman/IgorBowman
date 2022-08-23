@@ -1,6 +1,6 @@
 ##  Hi there 👋                                                                
                                                                
-I`m python developer :man_beard:
+I`m python developer :man_beard: and citrus grover :tangerine:
 
 
 🌱 I’m currently learning FastAPI, Django, Docker.
