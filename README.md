@@ -14,6 +14,7 @@ My [Telegram](https://t.me/IgorBowman).💬
 * Django :horse_racing:
 * PostgreSQL :elephant:
 * Docker 	:whale:
+* FastAPI :zap:
 
 
 
