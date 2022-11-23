@@ -3,7 +3,6 @@
 I`m python developer :man_beard: and citrus grover :tangerine:
 
 
-🌱 I’m currently learning FastAPI, Django, Docker.
 
 My [Telegram](https://t.me/IgorBowman).💬
 
